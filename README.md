@@ -1,2 +1,2 @@
-## onToday
-#### A to do list app using kotlin
+#### onToday
+*** A to do list app using kotlin
